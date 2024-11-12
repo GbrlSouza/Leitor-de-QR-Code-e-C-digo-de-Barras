@@ -1,0 +1,1 @@
+# Leitor-de-QR-Code-e-C-digo-de-Barras
